@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Hughes</h1>
-- 📚 I’m currently studying **Software Engineering at the Universidad Nacional del Sur**
+- 📚 I’m currently studying Software Engineering at the Universidad Nacional del Sur
 
 - 📫 How to reach me **dylan_21174@hotmail.com**
 
