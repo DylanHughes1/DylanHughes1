@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Hughes</h1>
-🎓 I’m currently pursuing a degree in Software Engineering at Universidad Nacional del Sur.
+🎓 I'm a Software Engineer, graduated from Universidad Nacional del Sur.
 🌱 I’m passionate about learning and continuously improving my skills in software development.
 📫 How to reach me: dylanhughes028@gmail.com
 
